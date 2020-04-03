@@ -1,0 +1,24 @@
+#year_lap{
+    margin: 5rem auto 0 auto;
+}
+
+.table{
+    display: none;
+}
+
+#showTable{
+    display:inline-table;
+}
+
+#submitButton{
+    background-color: #343a40;
+    color: white;
+}
+#submitButton:hover{
+    background-color: #454d55;
+}
+
+.sponsor{
+    text-transform: capitalize;
+}
+
